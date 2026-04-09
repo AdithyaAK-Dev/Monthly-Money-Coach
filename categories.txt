@@ -1,0 +1,6 @@
+Food
+Transport
+Utilities
+Fun
+Health
+Other
